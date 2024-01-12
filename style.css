@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-weight: normal;
+    color: white;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color:orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+    
