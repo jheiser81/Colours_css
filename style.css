@@ -9,8 +9,11 @@ h1 {
 }
 
 h2 {
-    font-weight: normal;
     color: white;
+}
+
+.color-title {
+    font-weight: normal;  
 }
 
 #red {
